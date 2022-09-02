@@ -24,7 +24,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 Dekstop
 ![](./images/dekstop.PNG)
-Active
+Mobile
 ![](./images/mobile.PNG)
 
 
